@@ -1,0 +1,10 @@
+fastapi==0.116.1
+uvicorn[standard]==0.35.0
+pydantic[email]==2.11.7
+python-dotenv==1.1.1
+pymongo==4.10.1
+certifi==2024.8.30
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+pymongo[srv]==4.10.1
+PyJWT==2.10.1
